@@ -1,0 +1,37 @@
+
+
+body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #1D212B;
+}
+
+h1 {
+	text-align: center;
+	color: silver;
+
+}
+
+
+h2 {
+	text-align: center;
+	color: silver;
+
+}
+h3 {
+	text-align: center;
+	color: #7e0fff;
+}
+
+li {
+	text-align: center;
+	color: #0fffc1;
+}
+
+p {
+	text-align: center;
+}
+
+.logos {
+	width: 60px;
+	height: 60px;
+}
